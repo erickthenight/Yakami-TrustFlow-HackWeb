@@ -37,6 +37,6 @@ A nossa infraestrutura não requer execução local obrigatória via Hardhat, po
 
 ## 👥 Equipe
 * **Erick Mattos - CEO & Tech Lead**
-* (Arquitetura Sistêmica, Smart Contracts e Metaverso Tático). Traz ao projeto expertise em gestão eletrônica e logística fundamentada em sua atuação nos sistemas pioneiros do OGMO e AHIMOC, essencial para a modelagem realista das regras de negócio do porto digital.
+  (Arquitetura Sistêmica, Smart Contracts e Metaverso Tático). 
 * **Helen Araújo - CLO / Chief Legal Officer**
-* (Governança, Compliance Web3 e Metaverso Jurídico).
+  (Governança, Compliance Web3 e Metaverso Jurídico).
