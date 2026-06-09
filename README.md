@@ -36,5 +36,7 @@ A nossa infraestrutura não requer execução local obrigatória via Hardhat, po
 * **Declaração de uso de IA (Regra 12):** Ferramentas de IA Generativa foram utilizadas de forma estritamente assistiva para revisão textual, formatação de documentação e geração de templates markdown. A lógica de negócios, a arquitetura de código em Solidity e o design do ecossistema são de autoria intelectual da equipe.
 
 ## 👥 Equipe
-* **Erick Mattos - CEO & Tech Lead** (Arquitetura Sistêmica, Smart Contracts e Metaverso Tático). Traz ao projeto expertise em gestão eletrônica e logística fundamentada em sua atuação nos sistemas pioneiros do OGMO e AHIMOC, essencial para a modelagem realista das regras de negócio do porto digital.
-* **Helen Araújo - CLO / Chief Legal Officer** (Governança, Compliance Web3 e Metaverso Jurídico).
+* **Erick Mattos - CEO & Tech Lead**
+* (Arquitetura Sistêmica, Smart Contracts e Metaverso Tático). Traz ao projeto expertise em gestão eletrônica e logística fundamentada em sua atuação nos sistemas pioneiros do OGMO e AHIMOC, essencial para a modelagem realista das regras de negócio do porto digital.
+* **Helen Araújo - CLO / Chief Legal Officer**
+* (Governança, Compliance Web3 e Metaverso Jurídico).
