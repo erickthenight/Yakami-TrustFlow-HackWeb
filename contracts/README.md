@@ -1,23 +1,23 @@
-# ⚙️ Arquitetura Lógica e Tokenomics (YAKAMI TrustFlow)
+# 🛡️ Smart Contracts (Solidity)
 
-Este diretório contém os Smart Contracts que formam a espinha dorsal da rede ciberfísica da YAKAMI TECH. Mais do que simples automação, o código reflete um modelo económico (Tokenomics) desenhado para sustentabilidade a longo prazo e proteção de Propriedade Intelectual (INPI).
+Este diretório contém a camada lógica de execução on-chain do projeto **YAKAMI TrustFlow**. Estes contratos foram desenvolvidos para garantir a automação de governança, o processamento de pagamentos (Escrow) e a liquidação financeira imutável na rede **Sepolia Testnet**.
 
-## 📊 Modelo Económico Circular (Token YKM)
-A lógica dos contratos `RegistroDeUsuariosComRecompensa.sol` e `YakamiEcosystem.sol` materializa o nosso Quadro Reivindicatório de patente:
+## 📑 Arquitetura de Contratos
 
-**1. Distribuição Baseada em Prova de Operação (Proof-of-Uptime):**
-O contrato inteligente monitoriza o tempo de atividade dos nós físicos (ECO Stations) num ciclo fechado de 7 dias e executa a distribuição do tesouro centralizado de forma automatizada. (Vide diagrama *Tokenomics_YKM_Distribuicao.jpg* na pasta `/assets`).
+### `RegistroDeUsuariosComRecompensa.sol`
+O motor central do nosso protocolo de governança DePIN. 
+* **Função:** Gerencia o registro de estações de telemetria, valida o histórico de atividade (Proof-of-Uptime) e automatiza o processo de *escrow* para a liberação de recompensas aos mantenedores locais.
 
-**2. Escalonamento em Tiers (Níveis de Recompensa):**
-A liquidação on-chain é classificada em quatro níveis rigorosos:
-* **Bronze:** Mínimo de 40h de atividade = 50 tokens YKM.
-* **Prata:** Mínimo de 80h de atividade = 120 tokens YKM.
-* **Ouro:** Mínimo de 120h de atividade = 250 tokens YKM.
-* **Diamante:** Mínimo de 160h de atividade = 500 tokens YKM.
-*(O contrato prevê uma penalidade algorítmica de 50% em caso de inatividade no momento exato da apuração do ciclo).*
+### `YakamiEcosystem.sol`
+A arquitetura de alto nível do ecossistema YKM.
+* **Governança:** Estrutura pronta para votações descentralizadas (DAO).
+* **Interoperabilidade:** Integração nativa com oráculos (Chainlink) para alimentação de dados ciberfísicos externos.
+* **Tokenomics:** Suporte total a ativos (ERC-20 para o token YKM e ERC-721 para NFTs de certificação de nós da rede).
 
-**3. Mecanismo Deflacionário (Corporate Burn):**
-Para garantir a escassez programada e o controlo da inflação, a arquitetura do contrato aplica um sistema de retenção que destrói permanentemente **2% do suprimento circulante** a cada transação corporativa comercial realizada no ecossistema logístico.
+## ⚙️ Especificações Técnicas
+* **Linguagem:** Solidity ^0.8.20
+* **Framework:** Hardhat
+* **Segurança:** Implementação de padrões OpenZeppelin para controle de acesso, proteção contra reentrância e governança segura.
 
-## 🔗 Integração Social e DePIN
-Os contratos garantem a circularidade económica através da transferência direta dos ativos para as carteiras digitais dos mantenedores locais. Através da capacitação contínua, os jovens da região ribeirinha assumem a operação descentralizada da infraestrutura, convertendo as recompensas logísticas on-chain em valor real no seu quotidiano.
+---
+*Este módulo é o coração da nossa proposta de valor, unindo a infraestrutura física (sensores) à eficiência da tecnologia blockchain.*
