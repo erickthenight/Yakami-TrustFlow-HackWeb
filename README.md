@@ -22,7 +22,8 @@ Nosso contrato (`RegistroDeUsuariosComRecompensa`) atua como um *Escrow* e Gesto
 * **Endereço do Smart Contract (Sepolia Testnet):** [0x406AB5033423Dcb6391Ac9eEEad73294FA82Cfbc](https://sepolia.etherscan.io/address/0x406AB5033423Dcb6391Ac9eEEad73294FA82Cfbc)
 * **Vídeo Pitch (Demonstração):** [INSERIR LINK DO YOUTUBE AQUI]
 * **Apresentação de Slides:** [INSERIR LINK DO PDF AQUI]
-* **Repositórios Frontend (Metaverso Unity):** * [Cartório Digital/Compliance (Helen)](https://github.com/helenaraujo-adv/Atividade_Final_Metaverso_Avan-ado_Helen_Araujo)
+* **Repositórios Frontend (Metaverso Unity):**
+* * [Cartório Digital/Compliance (Helen)](https://github.com/helenaraujo-adv/Atividade_Final_Metaverso_Avan-ado_Helen_Araujo)
   * [Centro de Comando Logístico (Erick)](https://github.com/erickthenight/C4-Amazon-VR-Avancado-TIC29)
 
 ## 🛠️ 5. Tecnologias Utilizadas
