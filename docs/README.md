@@ -13,6 +13,6 @@ Este diretório contém os documentos de referência, relatórios de arquitetura
 ---
 
 ## 💡 Notas de Implementação
-A documentação aqui contida reflete o estado atual do projeto (TRL 4-5), detalhando tanto a viabilidade técnica quanto a conformidade regulatória exigida para operações ciberfísicas em áreas críticas de segurança nacional.
+A documentação aqui contida reflete o estado atual do projeto (TRL 2-3), detalhando tanto a viabilidade técnica quanto a conformidade regulatória exigida para operações ciberfísicas em áreas críticas de segurança nacional.
 
 *Qualquer dúvida técnica sobre a implementação dos protocolos aqui descritos pode ser sanada através do contato oficial com a equipe de desenvolvimento da YAKAMI TECH.*
