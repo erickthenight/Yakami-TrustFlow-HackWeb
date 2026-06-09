@@ -40,3 +40,8 @@ A nossa infraestrutura não requer execução local obrigatória via Hardhat, po
   (Arquitetura Sistêmica, Smart Contracts e Metaverso Tático). 
 * **Helen Araújo - CLO / Chief Legal Officer**
   (Governança, Compliance Web3 e Metaverso Jurídico).
+
+  ## 🖼️ Destaques da Documentação (Arquivos Principais)
+* [Resumo Executivo (INPI)](/assets/docs/08_Resumo_Executivo_YKM_ECO_Flow.docx)
+* [Estrutura de Tokenomics](/assets/diagrams/Tokenomics_YKM_Distribuicao.jpg)
+* [Tiers de Recompensa](/assets/diagrams/Tiers_Recompensa_YKM.jpg)
