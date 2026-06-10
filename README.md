@@ -1,4 +1,4 @@
-# ⚠️ ATENÇÃO BANCA AVALIADORA: LINK OFICIAL DE SUBMISSÃO⚠️
+# ⚠️ATENÇÃO BANCA AVALIADORA: LINK OFICIAL DE SUBMISSÃO⚠️
 
 **Para garantir total conformidade com as regras de governança e versionamento do HackWeb (uso do template oficial via Fork), a versão final deste projeto foi migrada para o repositório oficial da organização.**
 
